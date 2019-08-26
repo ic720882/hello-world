@@ -1,5 +1,5 @@
-# hello-world
- El programa incial para aprender a usar git y github
+﻿# hello-world
 
+El programa incial para aprender a usar git y github
 
- Modificación que se hizo en la rama readme_edits
+Este es un cambio que se hace de manera local en el computador donde está clonado
